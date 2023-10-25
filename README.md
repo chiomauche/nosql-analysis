@@ -36,7 +36,9 @@ Eat Safe, Love had specific questions they wanted me to answer, which would help
 ![Alt text](<Screenshot 2023-10-24 050509.png>)
 
 * I displayed the first document in the results using pprint.
-I converted the result to a Pandas DataFrame, printed the number of rows in the DataFrame, and displayed the first 10 rows.
+* I converted the result to a Pandas DataFrame, printed the number of rows in the DataFrame, and displayed the first 10 rows.
+
+![Alt text](<Screenshot 2023-10-25 101355.png>)
 
 # Questions looked for:
 * Which establishments had a hygiene score equal to 20?  
